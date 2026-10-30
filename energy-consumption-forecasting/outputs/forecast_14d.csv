@@ -1,0 +1,15 @@
+date,step,forecast_energy_kwh,lower_bound_kwh,upper_bound_kwh,model
+2010-11-27,1,34.63,27.14,42.12,Random Forest Regressor
+2010-11-28,2,36.82,29.04,44.6,Random Forest Regressor
+2010-11-29,3,34.03,25.97,42.09,Random Forest Regressor
+2010-11-30,4,31.46,23.12,39.8,Random Forest Regressor
+2010-12-01,5,35.04,26.44,43.64,Random Forest Regressor
+2010-12-02,6,34.2,25.34,43.06,Random Forest Regressor
+2010-12-03,7,32.24,23.13,41.35,Random Forest Regressor
+2010-12-04,8,34.95,25.6,44.3,Random Forest Regressor
+2010-12-05,9,37.11,27.52,46.7,Random Forest Regressor
+2010-12-06,10,34.14,24.32,43.96,Random Forest Regressor
+2010-12-07,11,31.87,21.82,41.92,Random Forest Regressor
+2010-12-08,12,35.0,24.73,45.27,Random Forest Regressor
+2010-12-09,13,34.73,24.25,45.21,Random Forest Regressor
+2010-12-10,14,33.25,22.56,43.94,Random Forest Regressor

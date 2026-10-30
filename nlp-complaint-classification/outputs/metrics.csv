@@ -1,0 +1,5 @@
+model_name,accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+Majority Baseline,0.2151,0.043,0.2,0.0708,0.0762
+Multinomial Naive Bayes,0.9942,0.9944,0.9946,0.9944,0.9942
+Logistic Regression,1.0,1.0,1.0,1.0,1.0
+Linear SVC,1.0,1.0,1.0,1.0,1.0

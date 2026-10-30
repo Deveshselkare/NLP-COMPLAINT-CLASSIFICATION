@@ -1,0 +1,6 @@
+{
+  "name": "Indian Consumer Grievance NLP Classifier",
+  "description": "Natural Language Processing system that automatically classifies customer grievance texts into Indian consumer protection categories (Banking & UPI, E-Commerce, Telecom, Utilities, Electronics) with TF-IDF and machine learning benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

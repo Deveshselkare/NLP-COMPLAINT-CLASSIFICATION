@@ -1,0 +1,5 @@
+model,mae_kwh,rmse_kwh,mape_pct,n_eval_samples
+Random Forest Regressor,2.21,2.69,10.65,137
+Linear Regression,2.47,3.07,11.62,137
+Seasonal Naive (lag_7),3.3,4.21,16.2,137
+Naive Baseline (lag_1),3.27,4.04,16.13,137

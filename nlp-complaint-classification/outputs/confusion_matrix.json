@@ -1,0 +1,37 @@
+{
+  "Banking & UPI Services": {
+    "Banking & UPI Services": 35,
+    "E-Commerce & Online Shopping": 0,
+    "Telecommunications & Internet": 0,
+    "Consumer Utilities & Energy": 0,
+    "Consumer Electronics & Warranty": 0
+  },
+  "E-Commerce & Online Shopping": {
+    "Banking & UPI Services": 0,
+    "E-Commerce & Online Shopping": 37,
+    "Telecommunications & Internet": 0,
+    "Consumer Utilities & Energy": 0,
+    "Consumer Electronics & Warranty": 0
+  },
+  "Telecommunications & Internet": {
+    "Banking & UPI Services": 0,
+    "E-Commerce & Online Shopping": 0,
+    "Telecommunications & Internet": 34,
+    "Consumer Utilities & Energy": 0,
+    "Consumer Electronics & Warranty": 0
+  },
+  "Consumer Utilities & Energy": {
+    "Banking & UPI Services": 0,
+    "E-Commerce & Online Shopping": 0,
+    "Telecommunications & Internet": 0,
+    "Consumer Utilities & Energy": 31,
+    "Consumer Electronics & Warranty": 0
+  },
+  "Consumer Electronics & Warranty": {
+    "Banking & UPI Services": 0,
+    "E-Commerce & Online Shopping": 0,
+    "Telecommunications & Internet": 0,
+    "Consumer Utilities & Energy": 0,
+    "Consumer Electronics & Warranty": 35
+  }
+}
